@@ -1,4 +1,4 @@
-# musict.space
+# 本地音乐播放器
 ![MIT logo](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![pwa logo](https://img.shields.io/badge/PWA-ready-blue.svg)
 
